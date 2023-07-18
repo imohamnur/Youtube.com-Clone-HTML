@@ -1,4 +1,4 @@
-# YouTube Clone
+# Youtube.com Clone HTML
 
 This project is a recreation of the YouTube homepage using HTML and CSS. It mimics the design and layout of the YouTube website, showcasing various video previews, a header with search functionality, a sidebar with navigation links, and other components commonly found on the YouTube homepage.
 
