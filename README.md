@@ -4,7 +4,7 @@ This project is a recreation of the YouTube homepage using HTML and CSS. It mimi
 
 ## Preview
 
-![YouTube Clone Preview](preview.png)
+![Screenshot 2023-07-18 003748](https://github.com/imohamnur/Youtube.com-Clone-HTML/assets/135744887/0341474f-6cf9-45a3-9a34-0f0d3ff992d6)
 
 ## Features
 
@@ -19,6 +19,18 @@ This project is a recreation of the YouTube homepage using HTML and CSS. It mimi
 
 - HTML
 - CSS
+
+## Getting Started
+
+1. Clone the Repository:
+   ```bash
+   git clone https://github.com/imohamnur/Youtube.com-Clone-HTML.git
+
+2. Navigate to the project directory::
+   ```bash
+   cd Youtube.com-Clone-HTML
+
+3. Open the youtube.html file in your preferred web browser.
 
 ## Acknowledgments
 
