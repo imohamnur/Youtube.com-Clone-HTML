@@ -172,6 +172,15 @@
     border-radius: 32px;
   }
 
+  @media (max-width: 600px) {
+    .right-section {
+      display: none;
+    }
+
+    .middle-section {
+      display: none;
+    }
+  }
   
 
 
